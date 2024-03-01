@@ -2,3 +2,5 @@ openai
 langchain
 pypdf
 pandas
+tensorflow_hub
+tensorflow
